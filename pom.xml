@@ -15,6 +15,11 @@
     <name>spring-cloud-circuit-breaker</name>
     <description>Demo project for Spring Boot</description>
 
+    <properties>
+        <spring-boot.version>3.4.0</spring-boot.version>
+        <spring-cloud.version>4.2.0</spring-cloud.version>
+    </properties>
+
     <dependencies>
 
         <!--
